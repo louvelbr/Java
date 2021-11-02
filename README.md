@@ -1,5 +1,5 @@
 # Java
-Exercices of Parallel and Distributed Programming in Java.
+Exercises of Parallel and Distributed Programming in Java.
 
 # Lab6
 In the Prado museum in Madrid there is a small seating area where visitors can view Picasso’s Guernica. 
