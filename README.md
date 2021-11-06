@@ -14,6 +14,9 @@ Given below is a sequential program that calculates the frequency of even values
           System.out.println(freq);
       }
  ```
+ # Lab5
+Given is a class Point that is not thread safe. Your task is to write a class, called CollectionPoint (The outline has been given to you), that manages a collection of Point instances. This class owns the points under its control and must synchronize concurrent activity. Hence, the class must also be thread safe. The class CollectionPoint should use an ArrayList to store points and must provide the following interface methods: add, that adds a new point to the collection; search, that searches for a point in the class and returns true or false; getAllX(int x) that returns a list of all points whose x-ordinate matches x; toString, that the list of points as a String. It should also be possible to replace an existing point with a new one. The class Point is immutable and, hence, does not require synchronization.
+
 
 # Lab6
 In the Prado museum in Madrid there is a small seating area where visitors can view Picasso’s Guernica. 
