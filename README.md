@@ -33,4 +33,7 @@ It is important to optimize the search for a seat so that multiple visitors can 
 Write a simple simulator for your class that uses threads to model visitors. 
 Use ReentrantLock with Condition to implement.
 
+# Lab 9 - Matrix Multiplication
+==> PDF
+
 
