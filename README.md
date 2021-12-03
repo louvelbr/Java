@@ -1,5 +1,5 @@
-# Java
-Exercises of Parallel and Distributed Programming in Java.
+# Parallel and Distributed Programming - Java, C
+Exercises of Parallel and Distributed Programming in Java and C.
 
 # Lab2
 Given below is a sequential program that calculates the frequency of even values in a large array. Your task is to write a parallel solution that distributes all of the workload over the number of processors on the machine executing your program. The work should be distributed so that each thread deals with block segments that do not differ in size by more than 1.
